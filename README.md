@@ -30,7 +30,7 @@
 
 - 👻 What do I want to learn?
 
-    My biggest struggle is having ideas but not knowing how to implement them in code. That’s why my top learning priorities are, first, to build a more systematic grasp of Python. Second, to work on real‑world projects and solve concrete problems — especially data analysis and factor backtesting. And finally, to become a real expert!
+    My biggest struggle is having ideas but not knowing how to implement them in code. That’s why my top learning priorities are, first, to build a more systematic grasp of Python. Second, to work on real‑world projects and solve concrete problems — especially data analysis and factor backtesting. And finally, I hope I can say:I'm cooking!!!
 
 
 - ☑️ My plan for future
